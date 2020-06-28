@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\bài tập lập trình\bài thực hành\rắn\rắn\Source.cpp(36,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\bài tập lập trình\bài thực hành\rắn\rắn\Source.cpp(36,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+D:\bài tập lập trình\bài thực hành\rắn\rắn\Source.cpp(87,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rắn.vcxproj -> D:\bài tập lập trình\bài thực hành\rắn\Debug\rắn.exe
